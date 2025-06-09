@@ -17,3 +17,4 @@
 ## Размещение
 
 Приложение размещено на GitHub Pages:  
+https://dubdima.github.io/to-do-list/
